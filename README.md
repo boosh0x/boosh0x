@@ -1,16 +1,33 @@
-## Hi there 👋
+# Boosh
 
-<!--
-**boosh0x/boosh0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Metaverse Explorer**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Code
+- Python  
+- Vyper  
+- GDScript
+
+### Art
+- Pixel Art (Aseprite)
+- 3D Modeling (Blender)
+- Drawing (Krita)
+
+### Sound
+- Messing around on my Dirtywave M8 Tracker Model:02
+
+---
+
+### Future Coursework
+- Unreal Engine / UEFN / Verse  
+- C / C++
+- Assembly (6502 for NES)
+
+---
+
+### Interests
+- p2p protocols, networks, and tools 
+- open-source hardware and software
+- digital world creation, massive multiplayer gaming, gaming in general
+  
