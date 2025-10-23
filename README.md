@@ -1,6 +1,6 @@
 # Boosh
 
-**Metaverse Explorer**
+**Metaverse Explorer -- Developer Neophyte**
 
 ---
 
