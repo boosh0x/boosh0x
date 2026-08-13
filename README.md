@@ -1,33 +1,22 @@
 # Boosh
 
-**Metaverse Explorer -- Developer Neophyte**
+**Metaverse Explorer -- Game Developer Neophyte**
 
 ---
+
+### GameDev
+- Unreal Editor for Fortnite / Verse
+  - 3D Modeling (Blender)
+- Godot / GDScript
+  - Pixel Art (Aseprite)
 
 ### Code
-- Python  
-- Vyper  
-- GDScript
-
-### Art
-- Pixel Art (Aseprite)
-- 3D Modeling (Blender)
-- Drawing (Krita)
-
-### Sound
-- Messing around on my Dirtywave M8 Tracker Model:02
+- Python
+- Vyper 
 
 ---
 
-### Future Coursework
-- Unreal Engine / UEFN / Verse  
-- C / C++
-- Assembly (6502 for NES)
-
----
-
-### Interests
+### Other Interests
+- digital worlds, massive multiplayer gaming
 - p2p protocols, networks, and tools 
 - open-source hardware and software
-- digital world creation, massive multiplayer gaming, gaming in general
-  
