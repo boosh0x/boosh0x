@@ -10,7 +10,7 @@
 - Godot / GDScript
   - Pixel Art (Aseprite)
 
-### Code
+### Additional Code
 - Python
 - Vyper 
 
