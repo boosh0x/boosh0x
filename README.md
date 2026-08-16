@@ -6,13 +6,17 @@
 
 ### GameDev
 - Unreal Editor for Fortnite / Verse
-  - 3D Modeling (Blender)
 - Godot / GDScript
-  - Pixel Art (Aseprite)
+
 
 ### Additional Code
 - Python
 - Vyper 
+
+### Art
+- 3D Modeling (Blender)
+- Pixel Art (Aseprite)
+- Drawing (Krita)
 
 ---
 
